@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currently converter</string>
+    <string name="textElije">choose a currendy</string>
+    <string name="monto">Enter an amount</string>
+    <string name="convertir">convert to </string>
+    <string name="btnEnviar">convert</string>
+    <string-array name="divisas">
+        <item>Pesos mexicanos</item>
+        <item>Dolares</item>
+        <item>Euros</item>
+    </string-array>
+</resources>

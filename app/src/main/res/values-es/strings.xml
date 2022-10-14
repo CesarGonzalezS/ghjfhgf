@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Divisas</string>
+    <string name="textElije">!Selecciona una Divisa!</string>
+    <string name="monto">Ingrese monto</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="btnEnviar">CONVERTIR</string>
+    <string-array name="divisas">
+        <item>Pesos mexicanos</item>
+        <item>Dolares</item>
+        <item>Euros</item>
+    </string-array>
+</resources>
